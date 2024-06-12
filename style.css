@@ -1,0 +1,17 @@
+body { background-color: crimson;}
+
+@media screen and ( min-width: 1400px) {
+    .parte1 {color: goldenrod;
+    font-size: 150%;}
+    .parte7 { color: white;
+    font-size: 300% ;}
+}
+
+@media screen and ( max-width: 1399px) {
+    .parte28 {color: red;
+    font-size: 1%;}
+    .parte1 {color: gray;
+    font-size: 120%;}
+    .parte7 {color: orange;
+    font-size: 240%;}
+}
